@@ -1,2 +1,2 @@
-# controladorFuncion
+# contadorLeftRightConSpreads
 Created with CodeSandbox
